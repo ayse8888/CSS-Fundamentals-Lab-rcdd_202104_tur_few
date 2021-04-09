@@ -4,10 +4,7 @@ body {
   margin: 0;
 }
 
-h1 {
+h1, section {
   text-align: center;
 }
 
-section {
-  margin: 0 auto;
-}
