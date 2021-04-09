@@ -4,11 +4,7 @@ body {
   margin: 0;
 }
 
-h1, section {
-  text-align: center;
-}
-
-nav {
+h1, section, figcaption, nav {
   text-align: center;
 }
 
@@ -16,5 +12,3 @@ nav a {
   padding: 0 10px;
   background-color: grey;
 }
-
-figcaption 
