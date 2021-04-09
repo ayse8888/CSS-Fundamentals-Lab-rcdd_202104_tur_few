@@ -4,13 +4,17 @@ body {
   margin: 0;
 }
 
-h1, figcaption, nav {
+h1, #featured-property, figcaption, nav {
   text-align: center;
 }
 
 nav a {
   padding: 0 10px;
   background-color: grey;
+}
+
+#featured-property p {
+  width: 800px;
 }
 
 
