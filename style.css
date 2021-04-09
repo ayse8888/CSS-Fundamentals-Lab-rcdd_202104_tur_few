@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1, section, figcaption, nav, #featured-property {
+h1, section, figcaption, nav {
   text-align: center;
 }
 
