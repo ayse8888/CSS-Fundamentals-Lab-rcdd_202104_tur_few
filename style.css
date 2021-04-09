@@ -11,3 +11,7 @@ h1, section {
 nav {
   text-align: center;
 }
+
+nav a {
+  padding: 0 10px;
+}
